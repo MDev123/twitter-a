@@ -4,7 +4,7 @@ $( function() {
      --------------------------------------*/
 
     var User = {
-        handle : '@bebaps',
+        handle : '@user',
         img : 'bebaps.jpg',
     };
 
